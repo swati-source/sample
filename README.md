@@ -1,1 +1,1 @@
-# 1st sample
+# sample
